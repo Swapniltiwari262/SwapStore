@@ -3,9 +3,9 @@ const footerHTML = `
   <footer class="section-footer">
     <div class="footer-container container">
       <div class="content_1">
-        <img src="./images/logo.png" alt="logo" />
+        <img src="./images/swap-store-high-resolution-logo-transparent.png" alt="logo" />
         <p>
-          Welcome to Thapa EcomStore, <br />
+          Welcome to Swap EcomStore, <br />
           your ultimate destination for
           <br />
           cutting-edge gadgets!
@@ -42,7 +42,7 @@ const footerHTML = `
     </div>
     <div class="f-design">
       <div class="f-design-txt">
-        <p>Design and Code by Thapa Technical</p>
+        <p>Design and Code by Swapnil Tiwari</p>
       </div>
     </div>
   </footer>`;
